@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/challenge/starter/record-store-api/pom.xml" />
         <option value="$PROJECT_DIR$/challenge/starter/authorization-service/pom.xml" />
+        <option value="$PROJECT_DIR$/record-store-api/pom.xml" />
+        <option value="$PROJECT_DIR$/authorization-service/pom.xml" />
       </list>
     </option>
   </component>
