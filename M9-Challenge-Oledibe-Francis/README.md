@@ -30,4 +30,21 @@ Specifically, I did the following:
 
 - An authenticated OAuth client is able to access all routes, including `GET`, `PUT` and `DELETE` operations.
 
+### Citations
+
+NB: In order for the record-store-app to run with @EnableAuthorizationServer and java 8, I added two extra dependencies:
+
+```
+<dependency>
+	<groupId>com.sun.xml.bind</groupId>
+	<artifactId>jaxb-impl</artifactId>
+	<version>2.3.1</version>
+</dependency>
+<dependency>
+	<groupId>com.sun.xml.messaging.saaj</groupId>
+	<artifactId>saaj-impl</artifactId>
+	<version>1.5.1</version>
+</dependency>
+```
+
 
