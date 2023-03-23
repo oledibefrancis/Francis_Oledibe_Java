@@ -16,15 +16,15 @@ Specifically, I did the following:
 
 ### Instructions
 
-1. Created a new local folder named `M9-Challenge-Francis-Oledibe`.  Add all the code for this challenge to this folder.
+1. Created a new local folder named `M9-Challenge-Francis-Oledibe`.  Added all the code for this challenge to this folder.
 
 2. Used the techniques described in class, created an Authorization Server which will facilitate OAuth authentication for the provided Record Store API application.
 
 3. For the Authorization server, created a few user accounts for testing purposes.
 
-4. Using the techniques described in class, refactored the provided Record Store API starter project such that the controller enforces authentication via OAuth for all Record Store API routes.
+4. Used techniques described in class, refactored the provided Record Store API starter project such that the controller enforces authentication via OAuth for all Record Store API routes.
 
-5. Using Insomnia, verify the following:
+5. Utilized Insomnia to verify the following:
 
 - An unauthenticated client is unable to access any of the API routes.
 
